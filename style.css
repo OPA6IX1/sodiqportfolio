@@ -169,6 +169,22 @@ body{
     font-weight: 500;
 }
 
+.home .icon {
+    display: flex;
+    column-gap: 3.5rem;
+    margin-top: 15px;
+    text-align: center;
+    
+}
+.icon i{
+    color: white;
+   /* height: 5px; */
+   gap: 2px;
+    /* width: 10px; */
+    
+    font-size: 15px;
+    transform: scale(1.5);
+}
 
 /* all similar styling */
 section{
